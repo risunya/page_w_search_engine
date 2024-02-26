@@ -27,4 +27,6 @@ The project utilizes the following technologies:
   - GitHub for version control and collaborative development
   - Heroku for deployment of the application
 
+LAST Commit on Feb 26, 2024
 
+LAST Update on Feb 26, 2024
